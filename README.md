@@ -6,7 +6,7 @@ This script is intended to be used as a widget on your home screen. You may also
 
 ## Installation
 
-[Click here](https://fifithebulldog.github.io/scriptable-testflight-watcher/TestFlight%20Watcher.scriptable) to install TestFlight Watcher.
+[Click here](https://fifithebulldog.github.io/scriptable-testflight-watcher/TestFlight%20Watcher.scriptable) to download TestFlight Watcher.
 
 The source code is [here](./TestFlight%20Watcher.js).
 
