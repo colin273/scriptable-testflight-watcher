@@ -4,11 +4,6 @@ A [Scriptable](https://scriptable.app) widget to watch for openings in [TestFlig
 
 This script is intended to be used as a widget on your home screen. You may also set up [automations in Shortcuts](https://support.apple.com/guide/shortcuts/create-a-new-personal-automation-apdfbdbd7123) to run this script, to check for TestFlight openings at times other than the ones dictated by Scriptable's normal widget refresh interval.
 
-![Open beta](./screenshots/open.png)
-![Beta opening notification](./screenshots/notification.png)
-![Full beta](./screenshots/full.png)
-![Closed beta](./screenshots/closed.png)
-
 ## Installation
 
 [Click here](https://fifithebulldog.github.io/scriptable-testflight-watcher/TestFlight%20Watcher.scriptable) to download TestFlight Watcher.
@@ -64,3 +59,10 @@ As mentioned above, you can also pass in arguments from a shortcut, using the Ru
 - Set the TestFlight ID or URL as the first item in the Texts field, and set the app name as the second item in the Texts field (similar to the order used for widget parameters)
 
 Happy TestFlight sniping!
+
+## Screenshots
+
+![Open beta](./screenshots/open.png)
+![Beta opening notification](./screenshots/notification.png)
+![Full beta](./screenshots/full.png)
+![Closed beta](./screenshots/closed.png)
